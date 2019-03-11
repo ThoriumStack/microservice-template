@@ -1,0 +1,14 @@
+ {
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Tjaart Blignaut",
+  "classifications": [ "Common", "Console" ],
+  "identity": "Thorium.MicroService.CSharp",
+  "name": "Thorium Microservice Template",
+  "shortName": "thorium.microservice",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "MicroServiceTemplate",
+  "preferNameDirectory": true
+}
